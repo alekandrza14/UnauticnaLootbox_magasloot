@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "magasloot",
+  "title": "ведьмачий сундук (Редкость::Редкий)",
+  "description": "тут будут токены на создание магичекого холодного оружия",
+  "caseImage": "media/30134d0576bf4cbdad44323414e70ea4/case.png",
+  "openSound": "media/30134d0576bf4cbdad44323414e70ea4/opening.wav",
+  "ambientSound": "media/30134d0576bf4cbdad44323414e70ea4/ambient.wav",
+  "items": [
+    {
+      "id": "loot_9948b55d",
+      "title": "дешовый меч",
+      "description": "Эта сталь очень низкого качества",
+      "image": "media/30134d0576bf4cbdad44323414e70ea4/loot_1.png",
+      "weight": 10.0,
+      "variables": [
+        {
+          "name": "tevro",
+          "amount": 10.0
+        },
+        {
+          "name": "steal_level_1_tokens",
+          "amount": 100.0
+        }
+      ]
+    },
+    {
+      "id": "loot_7c742ec9",
+      "title": "эконом меч",
+      "description": "эта сталь качества дешевле",
+      "image": "media/30134d0576bf4cbdad44323414e70ea4/loot_2.png",
+      "weight": 9.0,
+      "variables": [
+        {
+          "name": "tevro",
+          "amount": 10.0
+        },
+        {
+          "name": "steal_level_1_tokens",
+          "amount": 300.0
+        }
+      ]
+    },
+    {
+      "id": "loot_51b88458",
+      "title": "востановленый меч",
+      "description": "эта сталь хороша очень даже",
+      "image": "media/30134d0576bf4cbdad44323414e70ea4/loot_3.png",
+      "weight": 8.0,
+      "variables": [
+        {
+          "name": "tevro",
+          "amount": 10.0
+        },
+        {
+          "name": "steal_level_1_tokens",
+          "amount": 500.0
+        }
+      ]
+    },
+    {
+      "id": "loot_c3c8f17f",
+      "title": "дорогой меч",
+      "description": "сталь хороша но ручка из золота прям сейчас делай",
+      "image": "media/30134d0576bf4cbdad44323414e70ea4/loot_4.png",
+      "weight": 4.0,
+      "variables": [
+        {
+          "name": "tevro",
+          "amount": 15.0
+        },
+        {
+          "name": "steal_level_2_tokens",
+          "amount": 1500.0
+        }
+      ]
+    },
+    {
+      "id": "loot_f1fa1468",
+      "title": "улучшеный меч",
+      "description": "эта сталь эта заточка очнкруто упаковка и ручка ооу монгомолкулярная заточка",
+      "image": "media/30134d0576bf4cbdad44323414e70ea4/loot_5.png",
+      "weight": 3.0,
+      "variables": [
+        {
+          "name": "tevro",
+          "amount": 15.0
+        },
+        {
+          "name": "steal_level_2_tokens",
+          "amount": 4000.0
+        }
+      ]
+    },
+    {
+      "id": "loot_f45d98b2",
+      "title": "революционый меч",
+      "description": "эта сталь нет слов назадней ручке есть маленьки серп для срезания хуёв врага",
+      "image": "media/30134d0576bf4cbdad44323414e70ea4/loot_6.png",
+      "weight": 2.0,
+      "variables": [
+        {
+          "name": "tevro",
+          "amount": 15.0
+        },
+        {
+          "name": "steal_level_2_tokens",
+          "amount": 10000.0
+        }
+      ]
+    },
+    {
+      "id": "loot_9fc2ed53",
+      "title": "легендарнай мультирул",
+      "description": "то мечетопорокикосерпомолот эта сталь стоить целых 30 тевро дай дай",
+      "image": "media/30134d0576bf4cbdad44323414e70ea4/loot_7.png",
+      "weight": 0.5,
+      "variables": [
+        {
+          "name": "tevro",
+          "amount": 30.0
+        },
+        {
+          "name": "steal_level_3_tokens",
+          "amount": 1000000.0
+        }
+      ]
+    },
+    {
+      "id": "loot_e7dfb42b",
+      "title": "легендарный рай",
+      "description": "меч со всроеной телего ваной с слакой ватой и ведьмаком что ней плавает и держит за ручку стать да хороша дай дай но даже куто стоит 30 тевро",
+      "image": "media/30134d0576bf4cbdad44323414e70ea4/loot_8.png",
+      "weight": 0.4,
+      "variables": [
+        {
+          "name": "tevro",
+          "amount": 30.0
+        },
+        {
+          "name": "steal_level_3_tokens",
+          "amount": 20000000.0
+        }
+      ]
+    },
+    {
+      "id": "loot_5cffe09b",
+      "title": "легенданая команда с идеологией",
+      "description": "да да да дай дай это же целых 30 тевро вааааууу какая сталь какая мощь сукка это точно сталь с правельными взглядами оциал национализма",
+      "image": "media/30134d0576bf4cbdad44323414e70ea4/loot_9.png",
+      "weight": 0.1,
+      "variables": [
+        {
+          "name": "tevro",
+          "amount": 30.0
+        },
+        {
+          "name": "steal_level_3_tokens",
+          "amount": 500000000.0
+        }
+      ]
+    }
+  ]
+}
